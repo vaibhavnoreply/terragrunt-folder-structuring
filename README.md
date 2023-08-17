@@ -8,7 +8,7 @@ Keep your remote state configuration DRY
 Keep your CLI flags DRY
 Execute Terraform commands on multiple modules at once
 Work with multiple AWS accounts
-
+Keep our code DRY
 
 Installing Terragrunt:
 
